@@ -19,7 +19,6 @@
 [    0.000104] Installed languages: C, C++14, Rust, Python 3.12, Java 8, Node.js 22, MASM version 2.16 elf64
 [    0.000104] net: Initialized loopback interface
 [    0.000104] random: Initializing entropy pool
-[    0.000105] ak-update: Updating repositories from https://github.com/akai-keisanki/*
 [    0.000105] ak-update: Fetching data...
 [    2.036242] ak-update: Up to date
 [    3.246038] Mounted /ak/root as [REDACTED]
@@ -36,7 +35,6 @@
 
 This GitHub page currently works as a short portfolio and a public access to Akai Keisanki's projects, which is really useful in public computers.
 
-Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHub Pages portfolio</a>.
 
 ```json
 {
